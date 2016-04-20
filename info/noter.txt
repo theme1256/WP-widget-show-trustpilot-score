@@ -1,0 +1,14 @@
+Alle de informationer der skal bruges ligger i div.summary-rating
+	Den egentlige rating ligger i div.number-rating > span
+	Antallet af stjerner kan regnes ud fra det.
+	Antal reviews kan findes i title på diov.summary-rating eller span.ratingCount
+
+Farver på stjerner:
+	1: #e22027
+	2: #f47324
+	3: #f8cc18
+	4: #73b143
+	5: #007f4e
+	tom: #c8c8c8
+
+Side: https://dk.trustpilot.com/review/[Navn]
