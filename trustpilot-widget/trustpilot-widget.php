@@ -1,6 +1,6 @@
 <?php
 	/*
-	Plugin Name: TrustPilot Widget
+	Plugin Name: Widget to show a trustpilot score
 	Description: Small plugin to display a widget like the TrustBox mini
 	Version: 1.0
 	Author: Folkmann
@@ -16,7 +16,7 @@
 				'wp_trustpilot_widget',
 
 				// Widget name will appear in UI
-				__('TrustBox Mini Widget', 'wp_trustpilot_widget_domain'),
+				__('Show a trustpilot score', 'wp_trustpilot_widget_domain'),
 
 				// Widget description
 				array('description' => __('Plugin to display trustpilot rating', 'wp_trustpilot_widget_domain'),)

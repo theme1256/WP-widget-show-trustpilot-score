@@ -1,6 +1,6 @@
-=== Trustpilot Widget ===
+=== Widget to show a trustpilot score ===
 Contributors: folkmann
-Tags: trustpilot, widget
+Tags: trustpilot, widget, trustscore
 License: MIT
 
 A widget, that shows the trustpilot rating of a site on trustpilot, like the TrustBox Mini.
